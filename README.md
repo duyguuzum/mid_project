@@ -5,8 +5,7 @@
     <h3 align="center">Ironhack mid-term project</h3>
     <div align="center">
         <a href="https://github.com/duyguuzum/mid_project/blob/main/slides/Midterm-project-Presentation.pdf">View the presentation</a>
-        
-    </div>
+   
 </div>
 
 <br>
@@ -61,7 +60,7 @@ We did not find any duplicated data, and also there wasn't missing values in our
 ### In-Depth Analysis
 
 * We proceeded to realize the first iteration of our Machine Learning Model, and we can get the answers to our questions, so the model performs well.
-<img src="images/r1.png"/>
+
 
 
 
