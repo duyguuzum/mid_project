@@ -4,13 +4,13 @@
     <img src="https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png" alt="Ironhack Logo">
     <h3 align="center">Ironhack mid-term project</h3>
     <div align="center">
-       
         <a href="https://github.com/duyguuzum/mid_project/blob/main/slides/Midterm-project-Presentation.pdf">View the presentation</a>
         
     </div>
 </div>
 
 <br>
+
 
 # Ironhack Mid-Term Project
 
