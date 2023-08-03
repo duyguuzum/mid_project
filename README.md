@@ -5,7 +5,7 @@
     <h3 align="center">Ironhack mid-term project</h3>
     <div align="center">
        
-        <a href="https://docs.google.com/presentation/d/1zq5UCTGFmIwVCnoiHEO381wEek_5xUDc566gDatwlnE">View the presentation</a>
+        <a href="https://github.com/duyguuzum/mid_project/blob/main/slides/Midterm-project-Presentation.pdf">View the presentation</a>
         
     </div>
 </div>
