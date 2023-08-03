@@ -35,7 +35,9 @@ In this project we are working as analysts with a salaries database. We are goin
 
 We also want to explore the characteristics of the salaries using some business intelligence tools. 
 We followed this workflow in Python in order to build the required model:
-![Get and explore the data_ using Pandas library.jpg](images/Get and explore the data_ using Pandas library.jpg)
+<div align="center"> 
+    <img src="https://github.com/duyguuzum/mid_project/blob/main/images/sklearn-workflow-title.png" alt="workflow">
+</div>
 
 
 <a id='section3'></a>
